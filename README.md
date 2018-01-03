@@ -4,5 +4,6 @@
 
 
 #### 2 - ML Models
-- **Linear Regression** ([notebook](https://github.com/srikant86panda/Tensorflow/blob/master/TF_LinearRegression.ipynb)).Linear Regression with TensorFlow.
-- **Logistic Regression** ([notebook](https://github.com/srikant86panda/Tensorflow/blob/master/TF_LogisticRegression.ipynb)). Logistic Regression with TensorFlow.
+- **Linear Regression** ([JupyterNotebook](https://github.com/srikant86panda/Tensorflow/blob/master/TF_LinearRegression.ipynb)).Linear Regression with TensorFlow.
+- **Logistic Regression** ([JupyterNotebook](https://github.com/srikant86panda/Tensorflow/blob/master/TF_LogisticRegression.ipynb)). Logistic Regression with TensorFlow.
+- **Nearest Neighbour** ([JupyterNotebook](https://github.com/srikant86panda/Tensorflow/blob/master/TF_NearestNeighbour.ipynb)). Nearest Neighbour using L2 Distance.
